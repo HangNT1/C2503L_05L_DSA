@@ -57,7 +57,10 @@ public class DeQuyDemo {
         inDanhSachCacSo(10);
     }
     /**
-     * 1. In danh sach tu 1 - n 2. Tinh tong tu 1 - n 3. Dem so chu so cua n khi
-     * nhap tu ban phim
+     * 1. In danh sach tu 1 - n 
+     * 2. Tinh tong tu 1 - n 
+     * 3. Dem so chu so cua n khi nhap tu ban phim
+     * n = 100 -> 3 
+     * n = 123456 -> 6 
      */
 }
